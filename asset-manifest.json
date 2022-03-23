@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b70313ff.css",
+    "main.js": "/static/js/main.9fce837a.js",
+    "static/js/787.290d3e7a.chunk.js": "/static/js/787.290d3e7a.chunk.js",
+    "static/media/TX Props.png": "/static/media/TX Props.698dbed6ab4561588c56.png",
+    "static/media/TX Plant.png": "/static/media/TX Plant.db084f182da758468e9a.png",
+    "static/media/TX Tileset Grass.png": "/static/media/TX Tileset Grass.be1bd25d8b79566f4841.png",
+    "index.html": "/index.html",
+    "main.b70313ff.css.map": "/static/css/main.b70313ff.css.map",
+    "main.9fce837a.js.map": "/static/js/main.9fce837a.js.map",
+    "787.290d3e7a.chunk.js.map": "/static/js/787.290d3e7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b70313ff.css",
+    "static/js/main.9fce837a.js"
+  ]
+}
