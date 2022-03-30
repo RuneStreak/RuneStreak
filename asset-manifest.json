@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.d37c75ae.css",
-    "main.js": "./static/js/main.25573605.js",
+    "main.css": "./static/css/main.c59db04c.css",
+    "main.js": "./static/js/main.53a1301b.js",
     "static/js/787.290d3e7a.chunk.js": "./static/js/787.290d3e7a.chunk.js",
+    "static/media/gameMap.png": "./static/media/gameMap.8a87757df9b91793af0b.png",
+    "static/media/checkeredGrunge.png": "./static/media/checkeredGrunge.f768499f47b19cca4331.png",
     "static/media/TX Tileset woods.png": "./static/media/TX Tileset woods.d405778f5f5a96cba2e4.png",
-    "static/media/TX Props.png": "./static/media/TX Props.698dbed6ab4561588c56.png",
+    "static/media/TX Props.png": "./static/media/TX Props.c63edeacb6e9fbde426b.png",
     "static/media/TX Tileset ruins.png": "./static/media/TX Tileset ruins.d088f0779f89309712a4.png",
     "static/media/TX Tileset swamp.png": "./static/media/TX Tileset swamp.a0b86a7507f57d723469.png",
     "static/media/TX Tileset portal.png": "./static/media/TX Tileset portal.00e5286f3e981aca99e6.png",
     "static/media/TX Tileset mountains.png": "./static/media/TX Tileset mountains.09c08b81659792ce4ecb.png",
     "static/media/TX Tileset hell.png": "./static/media/TX Tileset hell.73a84bf322a454e126e0.png",
+    "static/media/gameFrame.png": "./static/media/gameFrame.c5c00dd5ae157f8c3bb4.png",
     "index.html": "./index.html",
-    "main.d37c75ae.css.map": "./static/css/main.d37c75ae.css.map",
-    "main.25573605.js.map": "./static/js/main.25573605.js.map",
+    "main.c59db04c.css.map": "./static/css/main.c59db04c.css.map",
+    "main.53a1301b.js.map": "./static/js/main.53a1301b.js.map",
     "787.290d3e7a.chunk.js.map": "./static/js/787.290d3e7a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d37c75ae.css",
-    "static/js/main.25573605.js"
+    "static/css/main.c59db04c.css",
+    "static/js/main.53a1301b.js"
   ]
 }
